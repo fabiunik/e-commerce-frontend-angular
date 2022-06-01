@@ -1,0 +1,46 @@
+{
+    "livros": 
+
+[
+    {
+      "id": "5",
+      "name": "Book5",
+      "price": 15,
+      "quantity": 5,
+      "category": "fiction",
+      "img": "img5"
+    },
+    {
+      "id": "4",
+      "name": "Book4",
+      "price": 10,
+      "quantity": 1,
+      "category": "fiction",
+      "img": "img4"
+    },
+    {
+      "id": "3",
+      "name": "Book3",
+      "price": 20,
+      "quantity": 2,
+      "category": "fiction",
+      "img": "img3"
+    },
+    {
+      "id": "2",
+      "name": "Book2",
+      "price": 50,
+      "quantity": 1,
+      "category": "fiction",
+      "img": "img2"
+    },
+    {
+      "id": "1",
+      "name": "Book1",
+      "price": 24,
+      "quantity": 1,
+      "category": "fiction",
+      "img": "img1"
+    }
+  ]
+}
